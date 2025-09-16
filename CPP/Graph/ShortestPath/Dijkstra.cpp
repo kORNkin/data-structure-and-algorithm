@@ -1,3 +1,9 @@
+/*
+Topic : Graph
+Sub-Topic: Dijkstra Algorithm (Shortest Path)
+Author: kornkin
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
