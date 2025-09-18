@@ -9,6 +9,7 @@ Author: kornkin
 using namespace std;
 
 const int V = 6;
+
 vector<int> g[V];
 
 void addE(int a, int b);
