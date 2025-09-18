@@ -7,7 +7,7 @@ Author: kornkin
 #include<bits/stdc++.h>
 using namespace std;
 
-const int INF = 1e9;
+const int INF = 1e9 + 7;
 
 void floyd_warshall(vector<vector<int>>& dis){
     int V = dis.size();
