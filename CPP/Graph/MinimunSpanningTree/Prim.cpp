@@ -15,7 +15,6 @@ void addE(int a, int b, int w);
 vector<pii> g[V];
 
 void Prim(int start){
-
     vector<int> par(V, -1);
     vector<int> key(V, INT_MAX);
     vector<bool> inMST(V, false);
