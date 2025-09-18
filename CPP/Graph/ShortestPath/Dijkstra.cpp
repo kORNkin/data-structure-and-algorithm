@@ -11,7 +11,7 @@ typedef pair<int, int> pii;
 
 void addE(int a, int b, int weight); // add edge and weight function
 
-vector<pii> g[1001]; // adjacency list garph with weight
+vector<pii> g[1001]; // adjacency list graph with weight
 
 int Dijkstra(int source, int target){
     vector<int> distance (1001, INT_MAX);
