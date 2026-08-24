@@ -3,3 +3,5 @@
 *.o
 *.dSYM
 .DS_Store
+test
+.vscode
